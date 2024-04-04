@@ -1,0 +1,270 @@
+id,name,area,perimeter,Currentclim
+0,"Acinonyx jubatus (Schreber, 1775)",224.348006,82.684084,1.719135804
+2,"Acrantophis dumerili Jan, 1860",5.437345,14.769442,14.56790126
+4,"Acridotheres tristis (Linnaeus, 1766)",4.051216,8.978566,12.19642852
+5,"Acrochordus javanicus Hornstedt, 1787",0.028361,0.892922,13.39711933
+6,"Acryllium vulturinum (Hardwicke, 1834)",41.18423,85.292142,15.75
+8,"Aepyceros melampus (Lichtenstein, 1812)",0.050232,5.607491,10.54012347
+9,"Agama agama (Linnaeus, 1758)",0.406899,4.472366,12.28703706
+10,"Agapornis fischeri Reichenow, 1887",416.536204,105.693677,4.611111112
+11,"Agapornis personata Reichenow, 1887",313.610402,98.996036,2.043209985
+12,"Agapornis personatus Reichenow, 1887",502.20896,107.722933,4.055555489
+13,"Agapornis roseicollis (Vieillot, 1818)",7.017986,66.207997,6.774691499
+18,"Amadina fasciata (Gmelin, 1789)",308.509295,97.619991,3.188271591
+20,"Amandava subflava (Vieillot, 1819)",281.0709,91.074666,2.672839435
+21,"Amazona aestiva (Linnaeus, 1758)",61.911933,80.33377,13.33921947
+22,"Amazona albifrons (Sparrman, 1788)",8.548509,44.50692,
+23,"Amazona amazonica (Linnaeus, 1766)",0.173963,1.823734,13.39711933
+25,"Amazona autumnalis (Linnaeus, 1758)",40.263694,54.510486,7.040123507
+26,Amazona autumnalis autumnalis,0,0.002171,9.104497326
+30,"Amazona finschi (P.L.Sclater, 1864)",90.751334,81.94607,2.416666645
+31,"Amazona leucocephala (Linnaeus, 1758)",128.546626,60.198681,3.17901232
+33,"Amazona ochrocephala (Gmelin, 1788)",633.137694,106.953203,4.280864192
+35,"Amazona ochrocephala panamensis (Cabanis, 1874)",9.601516,31.521361,13.17592584
+36,"Amazona oratrix Ridgway, 1887",22.326419,46.101515,
+38,"Amazona viridigenalis (Cassin, 1853)",104.393074,80.501062,8.033950702
+40,"Ameiva ameiva (Linnaeus, 1758)",3.215629,8.105192,12.15740744
+41,"Ammotragus lervia (Pallas, 1777)",398.087766,109.374476,6.283950645
+42,"Anodorhynchus hyacinthinus (Latham, 1790)",325.505855,93.196901,5.398148088
+44,"Anolis cybotes Cope, 1862",0.163483,2.480553,12.44984568
+45,"Anolis equestris Merrem, 1820",8.284389,11.394384,13.0802469
+46,"Anolis porcatus Gray, 1840",2.001394,6.093641,13.95023143
+47,"Anolis sagrei Dum?ril & Bibron, 1837",667.885724,121.849979,1.348765439
+48,"Anthropoides paradisea (A.A.H.Lichtenstein, 1793)",0.01878,36.729601,
+50,"Antidorcas marsupialis (Zimmermann, 1780)",106.757762,66.794759,11.36419749
+51,"Antilope cervicapra (Linnaeus, 1758)",87.513531,61.109809,5.046296289
+53,"Ara ararauna (Linnaeus, 1758)",3.57157,8.258619,12.7962963
+54,"Ara chloropterus G.R.Gray, 1859",197.800474,87.954431,2.262345659
+56,"Ara macao (Linnaeus, 1758)",398.614225,101.640752,6.814814805
+57,"Ara militaris (Linnaeus, 1766)",231.769557,86.108581,6.249999859
+60,"Ara severus (Linnaeus, 1758)",0.147043,1.879644,13.43827159
+62,"Aratinga jandaya (Gmelin, 1788)",40.396109,40.528611,1
+63,"Aratinga nenday (Vieillot, 1823)",80.986589,82.112116,7.614293857
+64,"Aratinga solstitialis (Linnaeus, 1758)",229.325819,81.910393,3.478395178
+67,"Axis axis (Erxleben, 1777)",79.619101,61.21583,3.420882857
+68,"Balearica regulorum (E.T.Bennett, 1834)",321.502591,88.509048,2.486111103
+71,"Basiliscus vittatus Wiegmann, 1828",7.157445,10.704931,13.33950618
+73,Boa constrictor constrictor,0.960017,45.495747,6.888888836
+74,"Boa constrictor Linnaeus, 1758",388.413082,97.043297,6.348765471
+78,"Hyla crepitans Wied-Neuwied, 1824",23.132227,46.187147,
+79,"Bogertophis subocularis (Brown, 1901)",60.317795,47.996632,1.120767182
+80,Bogertophis subocularis subocularis,6.516778,10.510401,4.163580302
+83,"Bombina orientalis (Boulenger, 1890)",6.282244,87.806696,
+84,"Boselaphus tragocamelus (Pallas, 1766)",94.649095,58.426686,2.913773105
+86,"Brotogeris versicolurus (Statius Muller, 1776)",91.677126,79.693622,10.35185188
+88,"Cacatua alba (Statius Muller, 1776)",165.973026,87.079206,1.147569462
+90,"Cacatua galerita (Latham, 1790)",199.746674,95.12487,2.499074111
+94,"Cacatua moluccensis (Gmelin, 1788)",343.073848,97.6343,5.614197454
+96,"Cacatua sulphurea (Gmelin, 1788)",183.792015,65.838641,2.993827133
+100,"Callisaurus draconoides Blainville, 1835",41.861796,28.511328,3.363945544
+101,"Callisaurus draconoides rhodostictus Cope, 1896",7.814718,12.628865,
+103,"Callithrix jacchus (Linnaeus, 1758)",297.41532,96.445538,2.737654267
+105,"Capra ibex Linnaeus, 1758",149.01852,80.626624,2.696759235
+107,"Carduelis carduelis (Linnaeus, 1758)",302.998434,94.464339,2.302469101
+108,"Cavia porcellus (Linnaeus, 1758)",575.472313,117.978778,1.530864211
+109,"Centrochelys sulcata (Miller, 1779)",433.318238,107.0432,2.626543175
+110,"Cervus canadensis Erxleben, 1777",657.950757,109.800088,
+111,"Cervus nippon Temminck, 1838",603.185978,117.371765,3.527777747
+112,Cervus nippon nippon,0.00084,0.706164,1.739583343
+113,"Chalcides ocellatus (Forskal, 1775)",30.5679,66.345352,
+114,"Chamaeleo calyptratus Dum?ril & Dum?ril, 1851",147.717228,90.501067,13.11419761
+117,"Charina bottae (Blainville, 1835)",159.477655,49.114781,1.014444448
+118,"Chelonoidis carbonarius (Spix, 1824)",38.079631,35.284884,
+121,"Epicrates angulifer Cocteau & Bibron, 1840",0,0.00084,3.641975431
+122,"Chinchilla lanigera Bennett, 1829",373.26709,96.370787,6.33024688
+125,"Chloebia gouldiae (Gould, 1844)",369.701788,101.949891,3.52469135
+126,"Choloepus didactylus (Linnaeus, 1758)",86.518365,49.322118,2.194444465
+131,"Cnemidophorus lemniscatus (Linnaeus, 1758)",0.971228,7.453749,13.46296299
+132,"Coendou prehensilis (Linnaeus, 1758)",174.52693,72.314078,1
+133,"Columba livia var. domestica J.F.Gmelin, 1789",894.591149,133.04899,1
+134,"Columba livia J.F.Gmelin, 1789",871.343572,126.914132,2.451388837
+138,"Cossypha niveicapilla (Lafresnaye, 1838)",168.92279,64.064669,2.219135739
+143,"Ctenosaura pectinata (Wiegmann, 1834)",161.619232,90.591655,7.12962971
+144,"Ctenosaura similis (Gray, 1831)",82.475967,78.28973,
+145,"Cuora amboinensis (Daudin, 1801)",330.493402,92.736423,6.589506223
+146,"Cuora flavomarginata (Gray, 1863)",4.258868,60.347154,2.33416003
+147,"Cyanerpes caeruleus (Linnaeus, 1758)",247.266822,98.746413,1
+148,"Cyanerpes cyaneus (Linnaeus, 1766)",508.036083,106.306345,1.0180776
+149,"Cyanoliseus patagonus (Vieillot, 1818)",265.918639,81.347196,6.481481503
+150,Cyanoliseus patagonus patagonus,47.013584,83.943971,5.072016447
+156,"Cyrtopodion scabrum (Heyden, 1827)",33.237363,49.108143,1.526432949
+159,"Dama dama (Linnaeus, 1758)",672.927636,121.715727,3.169753047
+161,"Dasyprocta leporina (Linnaeus, 1758)",20.337406,37.820175,
+168,"Drymarchon corais (Boie, 1827)",220.746896,92.373237,9.379629671
+171,"Eclectus roratus (Statius Muller, 1776)",163.614019,60.903665,8.006172815
+174,"Elaphurus davidianus Milne-Edwards, 1866",2.00183,7.509402,13.54320981
+175,"Eleutherodactylus planirostris (Cope, 1862)",161.887098,54.974747,2.694444491
+177,"Emydura subglobosa (Krefft, 1876)",0.000396,3.90624,17.07407399
+181,"Epicrates cenchria (Linnaeus, 1758)",0.052221,2.117768,12.52777786
+183,"Erithacus rubecula (Linnaeus, 1758)",481.679625,110.245772,5.490740699
+184,"Erpeton tentaculatum Lac?p?de, 1800",37.239439,56.441472,12.43518506
+185,"Erythrura psittacea (Gmelin, 1789)",19.229989,75.212432,4.207754687
+189,"Estrilda melpoda (Vieillot, 1817)",5.878472,47.845992,4.089506121
+191,"Estrilda troglodytes (Lichtenstein, 1823)",292.879393,91.850462,3.598765339
+193,"Eunectes murinus (Linnaeus, 1758)",76.504227,87.928183,17.27469124
+194,"Eunectes notaeus Cope, 1862",0.522262,26.413613,
+195,"Euodice malabarica (Linnaeus, 1758)",2.579848,70.564727,1.083333318
+196,"Lonchura malabarica (Linnaeus, 1758)",155.110376,78.633186,9.141975299
+199,"Euplectes afer (Gmelin, 1789)",280.661915,89.385169,1.805555601
+201,"Eupsittula canicularis (Linnaeus, 1758)",218.431735,82.334901,
+202,"Eutropis multifasciata (Kuhl, 1820)",0.002515,0.693857,13.43827159
+206,"Furcifer oustaleti (Mocquard, 1894)",0.113694,2.735901,13.39711933
+207,"Furcifer pardalis (Cuvier, 1829)",3.030896,8.24103,12.74382714
+210,"Gekko gecko (Linnaeus, 1758)",347.019041,100.353959,2.518518466
+212,"Gekko grossmanni G?nther, 1994",0.000006,0.068762,12.85918204
+216,"Geopelia cuneata (Latham, 1801)",462.650838,103.55077,1.574074071
+218,"Gonatodes albogularis (Dum?ril & Bibron, 1836)",0.374828,4.766265,16.49305537
+219,"Gonatodes albogularis fuscus (Hallowell, 1855)",0.000254,0.148807,
+224,"Heloderma horridum (Wiegmann, 1829)",0.140408,42.974955,1
+225,"Hemidactylus frenatus Dum?ril & Bibron, 1836",360.242886,97.644548,3.237654316
+226,"Hemidactylus turcicus (Linnaeus, 1758)",373.901266,96.190444,7.858024723
+228,"Hippotragus niger (Harris, 1838)",34.263368,41.420111,2.181547524
+229,"Hydrochoerus hydrochaeris (Linnaeus, 1766)",450.591341,113.966844,2.696759235
+231,"Hydrochaeris hydrochaeris (Linnaeus, 1766)",150.895915,60.390588,1
+233,"Icterus icterus (Linnaeus, 1766)",358.980246,98.172559,4.53395059
+235,"Iguana iguana (Linnaeus, 1758)",23.599179,38.373419,11.91975313
+237,"Indotyphlops braminus (Daudin, 1803)",225.229898,85.00956,14.45679018
+239,"Kaloula pulchra Gray, 1831",0,0.002675,12.85918204
+241,"Kobus ellipsiprymnus (Ogilby, 1833)",29.863638,55.185267,6.106481476
+244,"Lagonosticta senegala (Linnaeus, 1766)",498.226425,107.089817,1.888888909
+247,"Lampropeltis knoblochi Taylor, 1940",1.329206,5.261359,3.277777742
+249,"Lampropeltis pyromelana woodini Tanner, 1953",0.581898,3.596819,3.435185158
+250,"Lampropeltis mexicana (Garman, 1884)",30.023617,27.593135,7.379629648
+251,"Lampropeltis pyromelana (Cope, 1866)",39.02951,25.501264,1.71574074
+252,"Lampropeltis pyromelana infralabialis Tanner, 1953",6.757413,10.305363,1
+253,Lampropeltis pyromelana pyromelana,4.289871,9.718729,7.601851795
+254,"Lampropeltis triangulum (Lac?p?de, 1789)",198.860878,62.280962,1.632716119
+256,"Leiocephalus carinatus Gray, 1827",9.023178,12.444426,13.0802469
+258,"Leiocephalus schreibersii (Gravenhorst, 1838)",0.644799,4.739358,12.28703706
+259,"Leiolepis belliana (Hardwicke & Gray, 1827)",0.000995,0.302453,13.73842594
+260,"Lemur catta Linnaeus, 1758",177.400293,68.732609,1.037037029
+262,"Lepidodactylus lugubris (Dum?ril & Bibron, 1836)",203.746171,85.926579,1.5471781
+266,"Lichanura trivirgata Cope, 1861",54.933682,48.183113,2.824073975
+267,"Charina trivirgata (Cope, 1868)",14.140748,16.170985,3.566872482
+269,"Lichanura trivirgata roseofusca Cope, 1868",8.827367,12.753931,3.367923332
+270,"Lichanura trivirgata gracia Klauber, 1931",10.375084,13.036805,2.880092629
+271,"Lichanura roseofusca Cope, 1868",3.702821,9.184662,2.82793205
+272,"Charina trivirgata gracia (Klauber, 1931)",0.159711,3.735821,3.657407322
+273,"Charina trivirgata roseofusca (Cope, 1868)",1.198134,5.257869,3.688271603
+279,"Lonchura castaneothorax (Gould, 1837)",303.113139,88.956309,2.833333322
+280,"Lonchura malacca (Linnaeus, 1766)",387.804933,97.564031,3.919753227
+281,"Lonchura punctulata (Linnaeus, 1758)",173.965977,89.012718,7.111111213
+282,"Lonchura striata (Linnaeus, 1766)",362.959279,98.358062,4.53395059
+288,"Macropus rufogriseus (Desmarest, 1817)",268.112495,107.257579,1.055555554
+290,"Macropus rufus (Desmarest, 1822)",331.443924,105.311858,3.598765348
+291,"Malayopython reticulatus (Schneider, 1801)",1.881063,7.290196,13.20061733
+296,"Mauremys reevesii (Gray, 1831)",351.936417,114.947989,
+297,"Mauremys sinensis (Gray, 1834)",327.965951,103.644677,3.370370314
+298,"Melopsittacus undulatus (Shaw, 1805)",807.495594,126.638028,1.015873012
+299,"Meriones unguiculatus (Milne-Edwards, 1867)",389.715509,105.016522,1.118055576
+300,"Mesocricetus auratus (Waterhouse, 1839)",691.957529,123.971949,1.078703682
+301,"Mimus gilvus (Vieillot, 1808)",8.230094,87.3282,14.18827163
+303,"Muntiacus reevesi (Ogilby, 1839)",29.359726,33.772472,3.507716008
+305,"Mustela putorius Linnaeus, 1758",603.385737,119.544283,1.629629657
+306,"Mustela putorius furo Linnaeus, 1758",234.710193,97.700177,
+307,"Myiopsitta monachus (Boddaert, 1783)",474.910889,105.082888,3.567901166
+311,"Neochmia modesta (Gould, 1837)",2.548113,78.161584,1.799130745
+313,"Neochmia ruficauda (Gould, 1837)",53.367885,85.816943,1.036265423
+318,"Neophema bourki (Gould, 1841)",2.627828,72.476845,3.787326395
+319,"Notophthalmus viridescens (Rafinesque, 1820)",224.126195,62.849079,1
+320,Notophthalmus viridescens viridescens,61.792236,37.154383,2.097619076
+321,"Notophthalmus viridescens louisianensis (Wolterstorff, 1914)",65.867153,33.110155,3.648148094
+323,"Notophthalmus viridescens dorsalis (Harlan, 1829)",0.00042,5.277248,3.10802468
+324,"Nymphicus hollandicus (Kerr, 1792)",760.999765,123.230827,2.153395051
+325,"Octodon degus (Molina, 1782)",149.951512,97.924862,3.611111082
+328,"Oryx dammah (Cretzschmar, 1827)",13.30416,15.338825,9.361111157
+329,"Oryx gazella (Linnaeus, 1758)",20.503529,20.338278,3.672839497
+330,Oryx gazella gazella,10.51441,21.160958,4.54629628
+331,"Osteopilus septentrionalis (Dum?ril & Bibron, 1841)",331.573836,77.179298,1
+335,"Panthera leo (Linnaeus, 1758)",360.244921,96.563617,1.631655106
+336,"Panthera onca (Linnaeus, 1758)",613.292081,112.041296,1.001587301
+339,"Panthera tigris (Linnaeus, 1758)",109.305447,44.9735,2.448559655
+341,Panthera tigris tigris,12.13183,76.8096,
+347,"Passer montanus (Linnaeus, 1758)",25.867903,20.474834,2.475308706
+348,"Pavo muticus Linnaeus, 1766",396.915761,109.226004,
+349,"Pelodiscus sinensis Wiegmann, 1835",347.10327,105.78121,1.364197498
+352,"Pelusios castaneus (Schweigger, 1812)",278.278622,99.73086,1.342777772
+356,"Phelsuma grandis Gray, 1870",23.422152,35.404573,
+364,"Phonipara canora (Gmelin, 1789)",195.650582,90.096121,4.37345686
+365,"Phrynops hilarii (Dum?ril & Bibron, 1835)",0.033702,80.592307,3.070987684
+370,"Phrynosoma platyrhinos Girard, 1852",68.342791,32.05151,1.017037039
+372,"Physignathus cocincinus Cuvier, 1829",0,0.003976,12.85918204
+377,"Pionus maximiliani (Kuhl, 1820)",25.860808,78.878914,
+382,"Platycercus elegans (Gmelin, 1788)",75.936136,73.393823,14.76234565
+386,"Platycercus eximius (Shaw, 1792)",359.528195,95.042505,3.941357979
+388,"Podarcis siculus campestris (De Betta, 1857)",55.220794,51.925646,
+389,"Podarcis siculus (Rafinesque-Schmaltz, 1810)",494.419619,115.646843,1.558642002
+390,Podarcis siculus siculus,0.016965,0.520136,4.126851898
+391,"Poephila acuticauda (Gould, 1840)",305.51906,97.489819,3.253086427
+395,"Pogona vitticeps (Ahl, 1926)",341.504781,103.39171,6.407407354
+406,"Polytelis anthopeplus (Lear, 1831)",200.930688,78.701549,8.629629595
+408,"Porphyrio poliocephalus (Latham, 1801)",5.278061,10.221295,13.23765428
+409,"Potos flavus (Schreber, 1774)",607.000689,119.400266,3.287037061
+411,"Ara auricollis Cassin, 1853",10.594087,51.115844,14.28009256
+416,"Probosciger aterrimus (Gmelin, 1788)",209.414823,67.842382,4.175925836
+417,"Procavia capensis (Pallas, 1766)",0.019908,60.293689,2.259865496
+421,"Psittacara erythrogenys Lesson, 1844",112.025055,90.176277,2.052469158
+422,"Psittacara leucophthalmus (M?ller, 1776)",5.400442,9.62448,12.74382714
+423,"Psittacara mitratus (Tschudi, 1844)",82.518749,89.559814,2.799382739
+424,"Psittacara holochlorus (P.L.Sclater, 1859)",0.075593,1.955011,14.9000773
+425,"Brotogeris chiriri (Vieillot, 1818)",7.569494,78.26973,4.207754687
+426,"Psittacula krameri (Scopoli, 1769)",287.983528,101.123329,1.414076255
+427,"Thectocercus acuticaudatus (Vieillot, 1818)",52.399336,77.461543,
+428,"Amazona Lesson, 1830",0.109627,3.909601,2.894097227
+433,"Psittacula cyanocephala (Linnaeus, 1766)",23.034127,78.524717,5.614999962
+434,"Psittacula derbiana (Fraser, 1852)",41.294004,55.352869,11.04629626
+437,"Psittacus erithacus Linnaeus, 1758",324.109147,90.519621,4.216049379
+441,"Ptilinopus porphyreus (Temminck, 1822)",198.212654,83.815177,6.104938324
+443,"Pyrrhura molinae (Massena & Souance, 1854)",21.502997,77.099808,
+446,"Python bivittatus Kuhl, 1820",7.670756,14.105324,13.23765428
+447,"Python regius (Shaw, 1802)",42.20773,27.481396,
+448,"Python sebae (Gmelin, 1789)",0.225508,4.843139,13.20061733
+450,"Ramphastos toco P.L.S.M?ller, 1776",158.873679,59.780589,8.308641964
+452,"Ranoidea caerulea (White, 1790)",0.671681,5.520981,12.59567902
+453,"Rattus norvegicus (Berkenhout, 1769)",964.707253,133.113578,2.120370303
+454,"Rhinella marina (Linnaeus, 1758)",193.193451,63.379482,2.802469162
+455,"Rhinoclemmys pulcherrima (Gray, 1855)",100.953548,52.853514,8.411375633
+458,"Rucervus duvaucelii (G.Cuvier, 1823)",0.826397,55.830451,3.006172831
+459,"Salvator merianae Dum?ril & Bibron, 1839",32.235735,25.343413,12.47222227
+461,"Salvator rufescens (G?nther, 1871)",25.94764,76.192553,
+462,"Sceloporus variabilis Wiegmann, 1834",6.171979,10.059479,11.41666668
+463,"Sceloporus variabilis marmoratus Hallowell, 1852",0.000003,0.014573,13.54320981
+464,Serinus canaria domestica,305.552974,108.60152,4.268518497
+465,"Serinus canaria (Linnaeus, 1758)",763.336644,128.974839,1.004629629
+467,"Serinus mozambicus (P.L.Statius M?ller, 1776)",159.379575,68.544231,8.425925851
+468,"Siebenrockiella crassicollis (Gray, 1831)",0.281556,4.332852,1
+471,"Spermestes cucullata Swainson, 1837",41.739568,48.535323,4.166666683
+474,"Sphaerodactylus argus Gosse, 1850",0.006379,0.518304,
+476,"Streptopelia chinensis (Scopoli, 1786)",0.000293,1.236434,4.126851898
+478,"Staurotypus salvinii Gray, 1864",0.000003,0.018837,13.69510585
+481,"Streptopelia capicola (Sundevall, 1857)",38.211145,41.829682,2.704475315
+482,Streptopelia risoria (Sundevall),686.550616,115.187105,2.975308656
+483,"Taeniopygia bichenovii (Vigors & Horsfield, 1827)",44.474863,88.268586,1.385995436
+485,"Taeniopygia guttata (Vieillot, 1817)",533.719245,116.293416,2.290123472
+486,"Taeniopygia guttata castanotis (Gould, 1837)",0.14411,81.791892,2.516203691
+487,"Poephila guttata (Vieillot, 1817)",309.753682,93.052834,4.771605002
+497,"Tarentola annularis (Geoffroy Saint-Hilaire, 1827)",37.787186,77.142253,
+498,"Tarentola mauritanica (Linnaeus, 1758)",195.791527,86.660244,14.60493818
+499,"Taurotragus oryx (Pallas, 1766)",1.75526,76.431776,2.407407427
+502,"Testudo hermanni Gmelin, 1789",9.157005,37.881179,
+503,"Testudo horsfieldii Gray, 1844",658.272077,122.517473,1.055555554
+509,"Threskiornis aethiopicus (Latham, 1790)",26.802587,57.394956,10.9837963
+510,"Tiliqua scincoides (White, 1790)",1.818192,8.251657,12.96913576
+511,"Tockus erythrorhynchus (Temminck, 1823)",23.192984,78.214933,5.614999962
+514,"Trachemys grayi (Bocourt, 1868)",0.058312,3.259069,4.050540166
+516,"Trachemys venusta (Gray, 1855)",88.444939,43.572746,
+518,"Trachylepis quinquetaeniata (Lichtenstein, 1823)",5.4754,76.802659,12.98456792
+521,"Tragelaphus strepsiceros (Pallas, 1766)",0.036108,19.874832,8.817901345
+525,"Trichoglossus haematodus (Linnaeus, 1771)",302.917985,91.731827,4.018518376
+529,"Trichoglossus haematodus moluccanus (Gmelin, 1788)",164.766845,90.89356,1
+532,"Trioceros jacksonii (Boulenger, 1896)",0.001455,76.401609,3.787326395
+536,"Tupinambis teguixin (Linnaeus, 1758)",1.397879,6.293171,11.95987658
+538,"Uraeginthus bengalus (Linnaeus, 1766)",286.705981,91.87831,2.407407401
+545,"Varanus albigularis Daudin, 1802",0.92944,6.046028,13.46296299
+549,"Varanus exanthematicus (Bosc, 1792)",90.334389,78.985809,6.310185138
+551,"Varanus niloticus (Linnaeus, 1766)",6.131716,10.896125,13.23765428
+554,"Varanus salvator (Laurenti, 1768)",327.673255,102.846399,4.067901333
+561,"Vidua macroura (Pallas, 1764)",18.426769,47.154894,3.469135773
+562,"Vidua paradisaea (Linnaeus, 1758)",128.60504,52.735883,1.925925894
+564,"Vulpes zerda (Zimmermann, 1780)",8.7638,35.070565,1.059027778
+566,"Xenopus laevis (Daudin, 1802)",142.314344,90.636893,6.160493876
